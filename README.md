@@ -1,5 +1,4 @@
 # octoyasi
-My personal repository
 
 <h1 align ="center"> Hi 👋🏻, I'm Kesha Torriana! </h1>
 <h2 align ="center"> An aspiring Web Developer and Machine Learning Engineer </h2>                              
